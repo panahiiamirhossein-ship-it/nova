@@ -77,12 +77,12 @@
         "type": "ws",
         "path": "/?fake=1",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev"
       }
     },
     {
@@ -91,20 +91,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy gentle-dusk-80ce.pedrampanahi.workers.dev:443 [VLESS]",
-      "server": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+      "tag": "سرویس رایگان نوا @irnova_proxy sunny-willow-ed65.pedrampanahi.workers.dev:443 [VLESS]",
+      "server": "sunny-willow-ed65.pedrampanahi.workers.dev",
       "server_port": 443,
       "uuid": "d5072f5e-2b80-48b9-8c34-2eca12afc58f",
       "transport": {
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -122,12 +122,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -145,12 +145,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -168,12 +168,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -191,12 +191,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -214,12 +214,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -237,12 +237,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -260,12 +260,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -283,12 +283,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -306,12 +306,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -329,12 +329,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -352,12 +352,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -375,12 +375,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -398,12 +398,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -421,12 +421,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -444,12 +444,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -467,12 +467,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -490,12 +490,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -513,12 +513,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -536,12 +536,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -559,12 +559,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -582,12 +582,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -605,12 +605,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -628,12 +628,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -651,12 +651,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -674,12 +674,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -697,12 +697,12 @@
         "path": "/proxyip=199.255.96.11",
         "type": "ws",
         "headers": {
-          "Host": "gentle-dusk-80ce.pedrampanahi.workers.dev"
+          "Host": "sunny-willow-ed65.pedrampanahi.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "gentle-dusk-80ce.pedrampanahi.workers.dev",
+        "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -719,7 +719,7 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "DIRECT",
-        "سرویس رایگان نوا @irnova_proxy gentle-dusk-80ce.pedrampanahi.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy sunny-willow-ed65.pedrampanahi.workers.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.233.218:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.226.133:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.27.146.199:443 [VLESS]",
@@ -752,7 +752,7 @@
       "type": "urltest",
       "tag": "♻️ 自动选择",
       "outbounds": [
-        "سرویس رایگان نوا @irnova_proxy gentle-dusk-80ce.pedrampanahi.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy sunny-willow-ed65.pedrampanahi.workers.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.233.218:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.226.133:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.27.146.199:443 [VLESS]",
@@ -788,7 +788,7 @@
       "type": "urltest",
       "tag": "🔯 故障转移",
       "outbounds": [
-        "سرویس رایگان نوا @irnova_proxy gentle-dusk-80ce.pedrampanahi.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy sunny-willow-ed65.pedrampanahi.workers.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.233.218:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.226.133:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.27.146.199:443 [VLESS]",
@@ -821,7 +821,7 @@
       "type": "urltest",
       "tag": "🔮 负载均衡",
       "outbounds": [
-        "سرویس رایگان نوا @irnova_proxy gentle-dusk-80ce.pedrampanahi.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy sunny-willow-ed65.pedrampanahi.workers.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.233.218:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.226.133:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.27.146.199:443 [VLESS]",
@@ -879,7 +879,7 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا @irnova_proxy gentle-dusk-80ce.pedrampanahi.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy sunny-willow-ed65.pedrampanahi.workers.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.233.218:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.226.133:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.27.146.199:443 [VLESS]",
@@ -919,7 +919,7 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا @irnova_proxy gentle-dusk-80ce.pedrampanahi.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy sunny-willow-ed65.pedrampanahi.workers.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.233.218:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.226.133:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.27.146.199:443 [VLESS]",
@@ -954,7 +954,7 @@
       "outbounds": [
         "📢 https://t.me/irnova_proxy",
         "DIRECT",
-        "سرویس رایگان نوا @irnova_proxy gentle-dusk-80ce.pedrampanahi.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy sunny-willow-ed65.pedrampanahi.workers.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.233.218:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.226.133:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.27.146.199:443 [VLESS]",
