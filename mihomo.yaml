@@ -53,22 +53,16 @@ proxies:
   - {name: "سرویس رایگان نوا @irnova_proxy 104.16.130.168:443 [VLESS]", server: 104.16.130.168, port: 443, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
   - {name: "سرویس رایگان نوا @irnova_proxy 104.16.83.253:443 [VLESS]", server: 104.16.83.253, port: 443, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
   - {name: "سرویس رایگان نوا @irnova_proxy 104.25.29.20:443 [VLESS]", server: 104.25.29.20, port: 443, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 172.66.2.91:2096 [VLESS]", server: 172.66.2.91, port: 2096, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.56.4:8443 [VLESS]", server: 104.17.56.4, port: 8443, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.34.185:443 [VLESS]", server: 104.19.34.185, port: 443, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.169.145:2083 [VLESS]", server: 104.17.169.145, port: 2083, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.247.2:2053 [VLESS]", server: 104.16.247.2, port: 2053, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.147.23:2083 [VLESS]", server: 104.16.147.23, port: 2083, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.124.167:8443 [VLESS]", server: 104.17.124.167, port: 8443, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.157.113:443 [VLESS]", server: 104.16.157.113, port: 443, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.161.56:2053 [VLESS]", server: 104.17.161.56, port: 2053, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.250.195:8443 [VLESS]", server: 104.16.250.195, port: 8443, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.33.119:2053 [VLESS]", server: 104.18.33.119, port: 2053, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.190.115:443 [VLESS]", server: 104.17.190.115, port: 443, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 91.193.59.209:2096 [VLESS]", server: 91.193.59.209, port: 2096, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.34.64:2087 [VLESS]", server: 104.19.34.64, port: 2087, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.216.79:2053 [VLESS]", server: 104.17.216.79, port: 2053, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.213.255:2096 [VLESS]", server: 104.17.213.255, port: 2096, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.221.148:2087 [VLESS]", server: 104.17.221.148, port: 2087, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.149.5:8443 [VLESS]", server: 104.16.149.5, port: 8443, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.158.14:2087 [VLESS]", server: 104.16.158.14, port: 2087, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.145.128:2053 [VLESS]", server: 104.17.145.128, port: 2053, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.100.245:2053 [VLESS]", server: 104.17.100.245, port: 2053, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.144.70:443 [VLESS]", server: 104.19.144.70, port: 443, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 108.162.198.81:2087 [VLESS]", server: 108.162.198.81, port: 2087, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.119.243:2096 [VLESS]", server: 104.17.119.243, port: 2096, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 172.66.0.172:2083 [VLESS]", server: 172.66.0.172, port: 2083, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.33.208:2096 [VLESS]", server: 104.18.33.208, port: 2096, type: vless, uuid: d5072f5e-2b80-48b9-8c34-2eca12afc58f, tls: true, skip-cert-verify: true, servername: sunny-willow-ed65.pedrampanahi.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=199.255.96.11, headers: {Host: sunny-willow-ed65.pedrampanahi.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -89,22 +83,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.16.130.168:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.16.83.253:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.29.20:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.66.2.91:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.56.4:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.34.185:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.169.145:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.247.2:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.147.23:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.124.167:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.157.113:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.161.56:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.250.195:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.33.119:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.190.115:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.59.209:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.34.64:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.216.79:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.213.255:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.221.148:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.149.5:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.158.14:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.145.128:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.100.245:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.144.70:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 108.162.198.81:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.119.243:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.0.172:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.208:2096 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -122,22 +110,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.16.130.168:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.16.83.253:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.29.20:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.66.2.91:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.56.4:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.34.185:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.169.145:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.247.2:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.147.23:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.124.167:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.157.113:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.161.56:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.250.195:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.33.119:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.190.115:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.59.209:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.34.64:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.216.79:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.213.255:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.221.148:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.149.5:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.158.14:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.145.128:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.100.245:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.144.70:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 108.162.198.81:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.119.243:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.0.172:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.208:2096 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -154,22 +136,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.16.130.168:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.16.83.253:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.29.20:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.66.2.91:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.56.4:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.34.185:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.169.145:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.247.2:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.147.23:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.124.167:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.157.113:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.161.56:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.250.195:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.33.119:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.190.115:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.59.209:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.34.64:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.216.79:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.213.255:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.221.148:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.149.5:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.158.14:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.145.128:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.100.245:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.144.70:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 108.162.198.81:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.119.243:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.0.172:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.208:2096 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -187,22 +163,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.16.130.168:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.16.83.253:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.29.20:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.66.2.91:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.56.4:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.34.185:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.169.145:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.247.2:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.147.23:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.124.167:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.157.113:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.161.56:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.250.195:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.33.119:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.190.115:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.59.209:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.34.64:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.216.79:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.213.255:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.221.148:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.149.5:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.158.14:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.145.128:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.100.245:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.144.70:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 108.162.198.81:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.119.243:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.0.172:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.208:2096 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -236,22 +206,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.16.130.168:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.16.83.253:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.29.20:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.66.2.91:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.56.4:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.34.185:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.169.145:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.247.2:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.147.23:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.124.167:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.157.113:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.161.56:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.250.195:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.33.119:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.190.115:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.59.209:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.34.64:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.216.79:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.213.255:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.221.148:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.149.5:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.158.14:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.145.128:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.100.245:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.144.70:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 108.162.198.81:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.119.243:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.0.172:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.208:2096 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -273,22 +237,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.16.130.168:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.16.83.253:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.29.20:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.66.2.91:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.56.4:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.34.185:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.169.145:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.247.2:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.147.23:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.124.167:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.157.113:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.161.56:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.250.195:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.33.119:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.190.115:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.59.209:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.34.64:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.216.79:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.213.255:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.221.148:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.149.5:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.158.14:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.145.128:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.100.245:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.144.70:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 108.162.198.81:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.119.243:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.0.172:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.208:2096 [VLESS]
 rules:
   - DOMAIN-SUFFIX,play.googleapis.com,🚀 节点选择
   - DOMAIN-SUFFIX,play-fe.googleapis.com,🚀 节点选择
