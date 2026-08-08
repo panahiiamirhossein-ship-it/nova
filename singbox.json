@@ -529,6 +529,12 @@
   "route": {
     "rules": [
       {
+        "outbound": "direct",
+        "domain_suffix": [
+          ".ir"
+        ]
+      },
+      {
         "inbound": "tun-in",
         "action": "sniff"
       },
