@@ -105,7 +105,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -128,7 +128,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -151,7 +151,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -174,7 +174,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -197,7 +197,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -220,7 +220,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -243,7 +243,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -266,7 +266,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -289,7 +289,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -312,7 +312,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -335,7 +335,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -358,7 +358,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -381,7 +381,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -404,7 +404,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -427,7 +427,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -450,7 +450,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -473,7 +473,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -496,7 +496,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -519,7 +519,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -542,7 +542,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -565,7 +565,7 @@
       "tls": {
         "enabled": true,
         "server_name": "sunny-willow-ed65.pedrampanahi.workers.dev",
-        "insecure": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
